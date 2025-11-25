@@ -24,14 +24,14 @@
 :root {
   /* colors */
   --background-color: var(--brand-background-color, #ffffff);
-  --dark-color: var(--brand-dark-color, #131313);
+  --dark-color: #00254A;
   --light-color: var(--brand-light-color, #dcdcdc);
   --text-color: var(--brand-text-color, #131313);
   --text-light: var(--brand-light-text-color, #ffffff);
   --text-disabled:rgb(113, 113, 113);
   --link-color: var(--brand-link-color, #131313);
-  --link-hover-color: var(--brand-link-hover-color, #F97316);
-  --main-accent-color: var(--brand-theme-color, #FB923C);
+  --link-hover-color: #F1FBFB;
+  --main-accent-color: #00254A;
 
 
   --dark-color-opacity: rgba(0, 0, 0, 0.55);
