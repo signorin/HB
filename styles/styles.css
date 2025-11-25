@@ -350,8 +350,8 @@ body header .nav-wrapper{
   color: var(--nav-text-color);
 }
 body footer {
-  background-color: var(--footer-background-color);
-  color: var(--footer-text-color);
+  background-color: #00254A;
+  color: #00254A;
 }
 /*theme header-footer*/
 body.red-theme header .nav-wrapper,
